@@ -1,0 +1,280 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Smartphone XYZ Pro",
+      "description": "The Smartphone XYZ Pro comes with a 6.5-inch display, 128GB storage, and a high-performance chipset, perfect for everyday use and gaming.",
+      "category": "gadgets",
+      "price": 299.99,
+      "discountPercentage": 10.5,
+      "rating": 4.8,
+      "stock": 15,
+      "tags": [
+        "smartphone",
+        "tech"
+      ],
+      "brand": "XYZ",
+      "sku": "XYZSP1234",
+      "weight": 200,
+      "dimensions": {
+        "width": 75.5,
+        "height": 160.5,
+        "depth": 8.2
+      },
+      "warrantyInformation": "2 years warranty",
+      "shippingInformation": "Ships in 1 week",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Absolutely love this phone!",
+          "date": "2024-11-10T08:56:21.618Z",
+          "reviewerName": "Alice Green",
+          "reviewerEmail": "alice.green@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-11-01T08:56:21.618Z",
+        "updatedAt": "2024-11-01T08:56:21.618Z",
+        "barcode": "1234567890123",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/gadgets/smartphone-xyz-pro/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/gadgets/smartphone-xyz-pro/thumbnail.png"
+    },
+    {
+      "id": 2,
+      "title": "Wireless Earbuds 3000",
+      "description": "Experience crystal-clear sound with Wireless Earbuds 3000, featuring noise cancellation, long battery life, and a comfortable fit.",
+      "category": "gadgets",
+      "price": 49.99,
+      "discountPercentage": 15.3,
+      "rating": 4.5,
+      "stock": 30,
+      "tags": [
+        "earbuds",
+        "audio"
+      ],
+      "brand": "AudioTech",
+      "sku": "ATEB3000",
+      "weight": 50,
+      "dimensions": {
+        "width": 10,
+        "height": 5,
+        "depth": 2
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 3 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Good quality, but could improve on battery life.",
+          "date": "2024-11-12T08:56:21.618Z",
+          "reviewerName": "Bob White",
+          "reviewerEmail": "bob.white@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-11-05T08:56:21.618Z",
+        "updatedAt": "2024-11-05T08:56:21.618Z",
+        "barcode": "2345678901234",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/gadgets/wireless-earbuds-3000/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/gadgets/wireless-earbuds-3000/thumbnail.png"
+    },
+    {
+      "id": 3,
+      "title": "Laptop ProMax 15",
+      "description": "The Laptop ProMax 15 is a high-performance laptop with a 15-inch display, 16GB RAM, and a powerful Intel Core i7 processor.",
+      "category": "gadgets",
+      "price": 799.99,
+      "discountPercentage": 12.2,
+      "rating": 4.7,
+      "stock": 20,
+      "tags": [
+        "laptop",
+        "tech"
+      ],
+      "brand": "ProMax",
+      "sku": "PMX15LP",
+      "weight": 1500,
+      "dimensions": {
+        "width": 358,
+        "height": 245,
+        "depth": 19
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 week",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Excellent laptop for work and gaming.",
+          "date": "2024-11-15T08:56:21.618Z",
+          "reviewerName": "Chris Black",
+          "reviewerEmail": "chris.black@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-11-03T08:56:21.618Z",
+        "updatedAt": "2024-11-03T08:56:21.618Z",
+        "barcode": "3456789012345",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/gadgets/laptop-promax-15/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/gadgets/laptop-promax-15/thumbnail.png"
+    },
+    {
+      "id": 4,
+      "title": "Smartwatch Ultra X",
+      "description": "The Smartwatch Ultra X features a 1.8-inch OLED display, heart rate monitor, and built-in GPS for all your fitness tracking needs.",
+      "category": "gadgets",
+      "price": 199.99,
+      "discountPercentage": 8.5,
+      "rating": 4.9,
+      "stock": 25,
+      "tags": [
+        "smartwatch",
+        "fitness"
+      ],
+      "brand": "FitTrack",
+      "sku": "FTSX200",
+      "weight": 80,
+      "dimensions": {
+        "width": 45,
+        "height": 45,
+        "depth": 12
+      },
+      "warrantyInformation": "2 years warranty",
+      "shippingInformation": "Ships in 4 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect for tracking my workouts!",
+          "date": "2024-11-13T08:56:21.618Z",
+          "reviewerName": "Daniel Blue",
+          "reviewerEmail": "daniel.blue@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-11-07T08:56:21.618Z",
+        "updatedAt": "2024-11-07T08:56:21.618Z",
+        "barcode": "4567890123456",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/gadgets/smartwatch-ultra-x/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/gadgets/smartwatch-ultra-x/thumbnail.png"
+    },
+    {
+      "id": 5,
+      "title": "Portable Speaker 500W",
+      "description": "The Portable Speaker 500W delivers powerful sound with Bluetooth connectivity, making it perfect for outdoor parties or travel.",
+      "category": "gadgets",
+      "price": 69.99,
+      "discountPercentage": 20.0,
+      "rating": 4.6,
+      "stock": 18,
+      "tags": [
+        "speaker",
+        "audio"
+      ],
+      "brand": "SoundMax",
+      "sku": "SMX500W",
+      "weight": 1000,
+      "dimensions": {
+        "width": 30,
+        "height": 15,
+        "depth": 15
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 2 days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Great sound quality, but a bit heavy.",
+          "date": "2024-11-10T08:56:21.618Z",
+          "reviewerName": "Rachel Green",
+          "reviewerEmail": "rachel.green@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-11-01T08:56:21.618Z",
+        "updatedAt": "2024-11-01T08:56:21.618Z",
+        "barcode": "5678901234567",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/gadgets/portable-speaker-500w/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/gadgets/portable-speaker-500w/thumbnail.png"
+    },
+    {
+      "id": 6,
+      "title": "Drone 4K Vision",
+      "description": "Capture stunning aerial shots with the Drone 4K Vision, featuring a 4K camera, long battery life, and advanced flight controls.",
+      "category": "gadgets",
+      "price": 399.99,
+      "discountPercentage": 5.5,
+      "rating": 4.9,
+      "stock": 10,
+      "tags": [
+        "drone",
+        "tech"
+      ],
+      "brand": "SkyTech",
+      "sku": "STV4K",
+      "weight": 800,
+      "dimensions": {
+        "width": 300,
+        "height": 150,
+        "depth": 100
+      },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Ships in 1 week",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Amazing camera quality, flies smoothly!",
+          "date": "2024-11-14T08:56:21.618Z",
+          "reviewerName": "Ethan Brown",
+          "reviewerEmail": "ethan.brown@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-11-04T08:56:21.618Z",
+        "updatedAt": "2024-11-04T08:56:21.618Z",
+        "barcode": "6789012345678",
+        "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/products/images/gadgets/drone-4k-vision/1.png"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/products/images/gadgets/drone-4k-vision/thumbnail.png"
+    }
+  ]
+}
