@@ -1,0 +1,227 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Smartphone XYZ Pro",
+      "description": "The Smartphone XYZ Pro offers top-notch performance with a high-resolution camera, fast processor, and sleek design.",
+      "category": "gadget",
+      "price": 799.99,
+      "discountPercentage": 5.00,
+      "rating": 4.5,
+      "stock": 20,
+      "tags": ["gadget", "smartphone"],
+      "brand": "XYZ",
+      "sku": "XYZ12345",
+      "weight": 200,
+      "dimensions": {
+        "width": 75.0,
+        "height": 160.0,
+        "depth": 8.0
+      },
+      "warrantyInformation": "1-year warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Fantastic phone with great performance!",
+          "date": "2024-11-01T10:30:00.000Z",
+          "reviewerName": "Alice Johnson",
+          "reviewerEmail": "alice.johnson@example.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Good phone but a bit pricey.",
+          "date": "2024-11-02T12:15:30.000Z",
+          "reviewerName": "Bob Smith",
+          "reviewerEmail": "bob.smith@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-11-01T10:30:00.000Z",
+        "updatedAt": "2024-11-01T10:30:00.000Z",
+        "barcode": "1234567890123",
+        "qrCode": "https://example.com/qr-code.png"
+      },
+      "images": [
+        "https://example.com/products/images/gadget/smartphone_xyz_pro.png"
+      ],
+      "thumbnail": "https://example.com/products/images/gadget/smartphone_xyz_pro_thumbnail.png"
+    },
+    {
+      "id": 2,
+      "title": "Wireless Headphones ABC",
+      "description": "Enjoy premium sound quality with these over-ear wireless headphones, perfect for music lovers and gamers.",
+      "category": "gadget",
+      "price": 129.99,
+      "discountPercentage": 10.00,
+      "rating": 4.7,
+      "stock": 15,
+      "tags": ["gadget", "headphones"],
+      "brand": "ABC",
+      "sku": "ABC67890",
+      "weight": 300,
+      "dimensions": {
+        "width": 18.0,
+        "height": 20.0,
+        "depth": 8.0
+      },
+      "warrantyInformation": "2-year warranty",
+      "shippingInformation": "Ships in 1-3 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Best sound quality I've ever experienced!",
+          "date": "2024-11-03T08:45:00.000Z",
+          "reviewerName": "John Doe",
+          "reviewerEmail": "john.doe@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-11-03T08:45:00.000Z",
+        "updatedAt": "2024-11-03T08:45:00.000Z",
+        "barcode": "9876543210987",
+        "qrCode": "https://example.com/qr-code2.png"
+      },
+      "images": [
+        "https://example.com/products/images/gadget/wireless_headphones_abc.png"
+      ],
+      "thumbnail": "https://example.com/products/images/gadget/wireless_headphones_abc_thumbnail.png"
+    },
+    {
+      "id": 3,
+      "title": "4K Smart TV DEF",
+      "description": "The 4K Smart TV DEF delivers stunning visuals with vibrant colors and supports all major streaming services.",
+      "category": "gadget",
+      "price": 599.99,
+      "discountPercentage": 15.00,
+      "rating": 4.8,
+      "stock": 10,
+      "tags": ["gadget", "smart tv"],
+      "brand": "DEF",
+      "sku": "DEF123678",
+      "weight": 12000,
+      "dimensions": {
+        "width": 100.0,
+        "height": 60.0,
+        "depth": 10.0
+      },
+      "warrantyInformation": "1-year warranty",
+      "shippingInformation": "Ships in 5-7 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Incredible picture quality!",
+          "date": "2024-11-04T14:30:00.000Z",
+          "reviewerName": "Emily Green",
+          "reviewerEmail": "emily.green@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-11-04T14:30:00.000Z",
+        "updatedAt": "2024-11-04T14:30:00.000Z",
+        "barcode": "1029384756472",
+        "qrCode": "https://example.com/qr-code3.png"
+      },
+      "images": [
+        "https://example.com/products/images/gadget/4k_smart_tv_def.png"
+      ],
+      "thumbnail": "https://example.com/products/images/gadget/4k_smart_tv_def_thumbnail.png"
+    },
+    {
+      "id": 4,
+      "title": "Bluetooth Speaker GHI",
+      "description": "Portable Bluetooth speaker with powerful sound, perfect for parties or outdoor use.",
+      "category": "gadget",
+      "price": 49.99,
+      "discountPercentage": 20.00,
+      "rating": 4.6,
+      "stock": 30,
+      "tags": ["gadget", "bluetooth speaker"],
+      "brand": "GHI",
+      "sku": "GHI90987",
+      "weight": 500,
+      "dimensions": {
+        "width": 12.0,
+        "height": 5.0,
+        "depth": 10.0
+      },
+      "warrantyInformation": "1-year warranty",
+      "shippingInformation": "Ships in 2-4 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great sound for its size!",
+          "date": "2024-11-05T10:20:00.000Z",
+          "reviewerName": "Anna Brown",
+          "reviewerEmail": "anna.brown@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-11-05T10:20:00.000Z",
+        "updatedAt": "2024-11-05T10:20:00.000Z",
+        "barcode": "1122334455667",
+        "qrCode": "https://example.com/qr-code4.png"
+      },
+      "images": [
+        "https://example.com/products/images/gadget/bluetooth_speaker_ghi.png"
+      ],
+      "thumbnail": "https://example.com/products/images/gadget/bluetooth_speaker_ghi_thumbnail.png"
+    },
+    {
+      "id": 5,
+      "title": "Laptop JKL",
+      "description": "Compact laptop with powerful specs, ideal for students and professionals alike.",
+      "category": "gadget",
+      "price": 999.99,
+      "discountPercentage": 8.00,
+      "rating": 4.3,
+      "stock": 10,
+      "tags": ["gadget", "laptop"],
+      "brand": "JKL",
+      "sku": "JKL32145",
+      "weight": 1500,
+      "dimensions": {
+        "width": 30.0,
+        "height": 20.0,
+        "depth": 2.0
+      },
+      "warrantyInformation": "2-year warranty",
+      "shippingInformation": "Ships in 5-7 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Good laptop for the price.",
+          "date": "2024-11-06T16:10:00.000Z",
+          "reviewerName": "Daniel White",
+          "reviewerEmail": "daniel.white@example.com"
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2024-11-06T16:10:00.000Z",
+        "updatedAt": "2024-11-06T16:10:00.000Z",
+        "barcode": "9988776655443",
+        "qrCode": "https://example.com/qr-code5.png"
+      },
+      "images": [
+        "https://example.com/products/images/gadget/laptop_jkl.png"
+      ],
+      "thumbnail": "https://example.com/products/images/gadget/laptop_jkl_thumbnail.png"
+    },
+    // 13 more items like the above with different gadgets (smartwatches, tablets, etc.)
+  ]
+}
